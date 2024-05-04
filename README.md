@@ -54,10 +54,3 @@ You can view the deployed app at [https://heavy-drag-n-drop.netlify.app/](https:
 - HTML5
 - CSS3
 
-## Author
-
-[Your Name]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
